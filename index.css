@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+}
+
+#first{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.big-heading{
+    font-size:4.5rem;
+    line-height:1.5;
+    font-weight:1000;
+  }
+
+  .container-fluid{
+    padding: 7% 15%;
+  }
+  
+  .white-section{
+    background-color: #fff;
+    }
+
+    #features{
+        position:relative;
+      }
+      
+      .feature-title{
+        font-size:1.5rem;
+      }
+      
+      .feature-box{
+        padding:5%;
+      }
+      
+      
+      
+      .icon{
+        color:#EF8172;
+        margin-bottom:1rem;
+      }
+      
+      .icon:hover{
+        color:#FF4C68;
+      }
+
+      #testimonials{
+        background-color:#EF8172;
+        color:#fff;
+      }
+      
+      .testimonial-text{
+        font-size: 3rem;
+        line-height: 1.5;
+      }
+      
+      .testimonial-image{
+        width:10%;
+        border-radius:100%;
+        margin:20px;
+      }
+      
+      #press{
+        background-color: #EF8172;
+        padding-bottom:3%;
+      }
+      
+      .press-logo{
+        width:15%;
+        margin:20px 20px 50px;
+      }
+      #cta{
+        background-color: #ff4c68;
+      }
+      
+      
